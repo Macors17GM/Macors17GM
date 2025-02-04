@@ -8,7 +8,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- 📫 How to reach me my gmail is marcosmonferran162@gmail.com and my discord user is marcosss3472.
+ ## 📫 How to reach me 
+- **Email:** [marcosmonferran162@gmail.com](mailto:marcosmonferran162@gmail.com)
+- **Discord:** marcosss3472
+- **GitHub:** [@Macor17GM](https://github.com/Macor17GM)
 - 😄 Pronouns: He ...
 - ⚡ Fun fact: I'm motivated all the time. ...
 
