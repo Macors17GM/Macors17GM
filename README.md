@@ -1,5 +1,5 @@
 # 👋 Hi my name is Marcos, I’m @Macors17GM
-- 👀 I’m interested in  front-end, back-end, ciber segurity and I love make code.
+- 👀 I’m interested in  **front-end**, **back-end**, **ciber segurity** and ***I love to make code***.
 - 🌱 I’m currently learning Javascript, node.js and jquery.
   ## ⚙️ Languages ​​and tools that I         usually use
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
