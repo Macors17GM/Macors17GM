@@ -1,7 +1,7 @@
 # <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand Waving" width="50"> Hi, my name is Marcos (@Macors17GM)</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UWjiApPIzNOqg/giphy.gif" alt="Smiling Computer" width="50">
+  <img src="https://pin.it/gxB53LuM0" width="50">
 </p>
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously learning new technologies.
