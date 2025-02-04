@@ -1,4 +1,4 @@
-# <p align="center"><marquee behavior="alternate" direction="left">👋 Hi, my name is Marcos (@Macors17GM)</marquee></p>
+# <p align="center">👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand Waving" width="50"> Hi, my name is Marcos (@Macors17GM)</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/UWjiApPIzNOqg/giphy.gif" alt="Smiling Computer" width="200">
