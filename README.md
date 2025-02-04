@@ -1,4 +1,8 @@
-# 👋 Hi, my name is Marcos (@Macors17GM)
+# <p align="center"><marquee behavior="alternate" direction="left">👋 Hi, my name is Marcos (@Macors17GM)</marquee></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UWjiApPIzNOqg/giphy.gif" alt="Smiling Computer" width="200">
+</p>
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously learning new technologies.
 
