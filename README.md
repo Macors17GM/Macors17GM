@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously learning new technologies.
 
-## 👀 Interests
+## 🚀 Interests
 - **Front-end Development**
 - **Back-end Development**
 - **Cyber Security**
